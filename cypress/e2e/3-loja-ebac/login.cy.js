@@ -53,4 +53,10 @@ cy.get('.woocommerce-MyAccount-content > :nth-child(2)').should('contain' , 'Ol�
     
 });
 
+it('Deve fazer login com sucesso - Usando Comando Customizado', () => {
+    cy.login('andreduarte@yahoo.com', 'dmenor007')
+    cy.get('.woocommerce-MyAccount-content > :nth-child(2)').should('contain' , 'Olá, andreduarte (não é andreduarte? Sair)')
+    
+});
+
 })
