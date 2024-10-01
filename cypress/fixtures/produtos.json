@@ -1,0 +1,18 @@
+[
+    {
+        "nomeProduto": "Zoltan Gym Tee",
+        "tamanho": "S",
+        "cor": "Green",
+        "quantidade": 3
+    },
+    {"nomeProduto": "Deion Long-Sleeve EverCool™ Tee",
+        "tamanho": "XS",
+        "cor": "Black",
+        "quantidade": 7
+    },
+    {"nomeProduto": "Strike Endurance Tee",
+        "tamanho": "XL",
+        "cor": "Red",
+        "quantidade": 9
+    }
+]
